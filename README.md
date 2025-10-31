@@ -110,7 +110,7 @@ Load the preprocessed data and then connect to a local SQLite database *supersto
 
 
 
-1. Giving 30%+ discount most backfires.
+1. Giving 30%+ discount mostly backfires.
 2. Upto 20% discount still plays a good role between customer retention and generating revenue.
 3. Most of the order have been placed when there is no discount.
 
