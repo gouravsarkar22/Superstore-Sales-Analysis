@@ -114,3 +114,83 @@ Load the preprocessed data and then connect to a local SQLite database *supersto
 2. Upto 20% discount still plays a good role between customer retention and generating revenue.
 3. Most of the order have been placed when there is no discount.
 
+## Dashboards 
+
+<img width="762" height="426" alt="Screenshot 2025-11-01 194437" src="https://github.com/user-attachments/assets/6179472c-6527-4dd0-bb2f-7a009ddcde07" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="849" height="476" alt="Screenshot 2025-11-01 202945" src="https://github.com/user-attachments/assets/bddd7731-5477-48a7-bf88-626437004094" />
+
+
+
+
+
+
+
+# Business Recommendations
+Based on the analysis, here are actionable recommendations:
+
+
+## 🔴 Immediate Actions
+1. *Review Furniture Pricing Strategy*:
+   1. Tables and Bookcases consistently unprofitable
+   2. Considewr discontinuing or repricing these items
+   3. Potential savings $17.7K annually
+
+2. *Optimize Discount Policy*:
+   1. Cap maximum discount at 20%
+   2. Target discounts only for slow-moving inventory
+   3. Potential margin improvement: 5-7%
+
+3. *Investigate Southern Region Performance*:
+   1. Lowest profit margin (12.3%)
+   2. Audit operational costs and shipping expenses
+   3. Align with Western region best practices
+
+
+## 🟡 Short-term (3-6 months)
+1. *Customer Retention Program*:
+   1. 45% are one-time buyers
+   2. Implement loyalty rewards for repeat purchases
+   3. Focus on Corporate segment (highest AOV)
+
+2. *Same-Day Delivery Marketing*:
+   1. Only 5% adoption rate
+   2. Promote to high-value customers
+   3. Premium pricing oppurtunity
+
+
+## 🟢 Long-Term (6-12 months)
+1. *Expand Product Mix in Technology*:
+   1. Highest revenue category with good margins
+   2. Oppurtunity for private label products
+   3. Cross-sell accessories
+
+2. *Geographic Expansion*:
+   1. Western region most profitable
+   2. Replicate success in underperforming regions
+   3. Focus on California and New York markets
