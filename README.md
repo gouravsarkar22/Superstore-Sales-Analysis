@@ -116,7 +116,8 @@ Load the preprocessed data and then connect to a local SQLite database *supersto
 
 ## Dashboards 
 
-<img width="856" height="480" alt="Screenshot 2025-11-03 041421" src="https://github.com/user-attachments/assets/3ac564ff-3686-41c7-809d-4dd6144665c4" />
+<img width="854" height="480" alt="Screenshot 2025-11-03 041944" src="https://github.com/user-attachments/assets/e2378b15-aecf-45a4-8350-a2086555da3b" />
+
 
 
 
