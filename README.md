@@ -116,7 +116,22 @@ Load the preprocessed data and then connect to a local SQLite database *supersto
 
 ## Dashboards 
 
-<img width="762" height="426" alt="Screenshot 2025-11-01 194437" src="https://github.com/user-attachments/assets/6179472c-6527-4dd0-bb2f-7a009ddcde07" />
+<img width="765" height="431" alt="Screenshot 2025-11-03 033921" src="https://github.com/user-attachments/assets/082ef16a-2de1-4c37-9831-be0f8867d352" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="766" height="430" alt="Screenshot 2025-11-03 025347" src="https://github.com/user-attachments/assets/6d205f0d-e4c0-4d8b-85ed-165646fd3c7b" />
 
 
 
@@ -142,8 +157,42 @@ Load the preprocessed data and then connect to a local SQLite database *supersto
 
 
 
+<img width="766" height="426" alt="Screenshot 2025-11-03 034504" src="https://github.com/user-attachments/assets/97ffb273-7863-4404-8b2c-d69ddfe02b4f" />
 
-<img width="849" height="476" alt="Screenshot 2025-11-01 202945" src="https://github.com/user-attachments/assets/bddd7731-5477-48a7-bf88-626437004094" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="762" height="427" alt="Screenshot 2025-11-03 033327" src="https://github.com/user-attachments/assets/64059fa2-e8f5-44f8-a4d4-c257aec593e7" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
