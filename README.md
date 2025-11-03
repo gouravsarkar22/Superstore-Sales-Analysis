@@ -249,3 +249,10 @@ Based on the analysis, here are actionable recommendations:
    1. Western region most profitable
    2. Replicate success in underperforming regions
    3. Focus on California and New York markets
+
+# Tech Stack Used
+1. Pandas
+2. SQL
+3. Matplotlib
+4. Seaborn
+5. Power BI
