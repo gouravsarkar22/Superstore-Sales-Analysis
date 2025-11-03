@@ -213,7 +213,7 @@ Based on the analysis, here are actionable recommendations:
 ## 🔴 Immediate Actions
 1. *Review Furniture Pricing Strategy*:
    1. Tables and Bookcases consistently unprofitable
-   2. Considewr discontinuing or repricing these items
+   2. Consider discontinuing or repricing these items
    3. Potential savings $17.7K annually
 
 2. *Optimize Discount Policy*:
