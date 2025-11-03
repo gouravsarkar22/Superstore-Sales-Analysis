@@ -133,7 +133,7 @@ Load the preprocessed data and then connect to a local SQLite database *supersto
 
 
 
-<img width="766" height="430" alt="Screenshot 2025-11-03 025347" src="https://github.com/user-attachments/assets/6d205f0d-e4c0-4d8b-85ed-165646fd3c7b" />
+<img width="852" height="482" alt="Screenshot 2025-11-03 214225" src="https://github.com/user-attachments/assets/9fcfede8-6bcf-441c-8871-c3307d67e199" />
 
 
 
@@ -159,7 +159,8 @@ Load the preprocessed data and then connect to a local SQLite database *supersto
 
 
 
-<img width="766" height="426" alt="Screenshot 2025-11-03 034504" src="https://github.com/user-attachments/assets/97ffb273-7863-4404-8b2c-d69ddfe02b4f" />
+
+<img width="853" height="481" alt="Screenshot 2025-11-03 221303" src="https://github.com/user-attachments/assets/99153524-7262-44eb-b4b4-a1421eb238bb" />
 
 
 
@@ -183,7 +184,10 @@ Load the preprocessed data and then connect to a local SQLite database *supersto
 
 
 
-<img width="762" height="427" alt="Screenshot 2025-11-03 033327" src="https://github.com/user-attachments/assets/64059fa2-e8f5-44f8-a4d4-c257aec593e7" />
+
+<img width="852" height="476" alt="Screenshot 2025-11-03 215254" src="https://github.com/user-attachments/assets/1db91cc6-56d5-4e92-8241-d9d770b1351e" />
+
+
 
 
 
