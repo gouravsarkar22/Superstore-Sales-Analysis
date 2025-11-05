@@ -5,7 +5,7 @@ An end-to-end business intelligence project analyzing 10,000+ retail transaction
 # Project Overview
 This project demonstrates a complete data analytics workflow from raw data ingestion to attractive visualization creation. Built using the *Superstore Sales dataset*, it showcases skills in:
 
- ## Data Preprocessing 
+ # Data Preprocessing 
   Worked on how to perform pre-processing of data and working on handling null values, deletion or transformation of irrelevant values, data type transformation, removing duplicates and data validations to get refined and cleaner data to perform further analysis.
 
 Steps to perform Data Pre-processing:
@@ -20,7 +20,7 @@ Step 4: Remove irrelevant values from each column if any. Validation of all valu
 
 Step 5: Export the cleaned dataset as a .csv file.
 
-##  Exploratory Data Analysis using SQL
+#  Exploratory Data Analysis using SQL
 
 Load the preprocessed data and then connect to a local SQLite database *superstore_sales.db*, then worked on performing data analysis on the pre-processed data from the previous module and conducting Data Analysis using SQL. You will generate queries for given problem statements.
 
