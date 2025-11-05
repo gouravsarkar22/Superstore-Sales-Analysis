@@ -262,4 +262,4 @@ Gourav Sarkar
 
 email: gouravsarkar222000@gmail.com
 
-Linledin: linkedin.com/in/gourav-sarkar-9759b0228  
+Linledin: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxCHIQq6HQI%2B%2Bg7030ZkuDA%3D%3D
