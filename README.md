@@ -256,3 +256,10 @@ Based on the analysis, here are actionable recommendations:
 3. Matplotlib
 4. Seaborn
 5. Power BI
+
+# Author
+Gourav Sarkar
+
+email: gouravsarkar222000@gmail.com
+
+Linledin: linkedin.com/in/gourav-sarkar-9759b0228 
